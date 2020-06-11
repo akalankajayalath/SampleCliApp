@@ -7,6 +7,7 @@
     <Version>1.2.0</Version>
     <Authors>Neel</Authors>
     <Company>CompanyX</Company>
+    <AssemblyVersion>1.2.1</AssemblyVersion>
   </PropertyGroup>
 
   <ItemGroup>
