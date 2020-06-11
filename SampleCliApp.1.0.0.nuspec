@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
   <metadata>
     <id>SampleCliApp</id>
-    <version>1.0.0</version>
+    <version>1.2.0</version>
     <authors>SampleCliApp</authors>
     <owners>SampleCliApp</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
